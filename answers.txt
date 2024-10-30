@@ -1,0 +1,120 @@
+Task #1
+
+anchor
+
+best
+
+blatz
+
+bud
+  {lakefront}
+  
+coors
+  
+lakefront
+  
+leinie
+  
+michelob
+  {michelob, miller}
+
+miller
+
+pabst
+
+redhook
+
+riverwest
+
+sprecher
+  
+strohs
+  
+Case key k comes before (x, y):
+Look in left subtree?   (yes or no)
+Look in right subtree?   (yes or no) 
+
+Case key k is in range (x, y):
+Look in left subtree?   (yes or no)
+Look in right subtree?   (yes or no) 
+
+Case key k is after (x, y):
+Look in left subtree?   (yes or no) 
+Look in right subtree?   (yes or no)
+  
+  
+Task #2
+
+anchor
+
+best
+
+blatz
+
+bud
+  
+coors
+  
+lakefront
+  
+leinie
+  
+michelob
+  2
+
+miller
+
+pabst
+
+redhook
+
+riverwest
+
+sprecher
+  
+strohs
+
+
+Height of a null pointer:
+Height of a node:   (equation using h1 and h2) 
+Assuming h1 is the height of the left subtree 
+and h2 is the height of the right subtree. 
+Hint: You may use “max(x,y)” to compute the maximum of two numbers x and y.
+
+
+Task #3
+
+anchor
+
+best
+  (<nothing>, bud)
+
+blatz
+
+bud
+  
+coors
+  
+lakefront
+  
+leinie
+  
+michelob
+
+miller
+
+pabst
+  (leinie, riverwest)
+
+redhook
+
+riverwest
+
+sprecher
+  
+strohs
+  
+Range for the root node: .
+Generally, for any node with a range of (x, y) and key k: 
+The range for the left subtree is
+The range for the right subtree is
